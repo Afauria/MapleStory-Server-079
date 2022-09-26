@@ -30,7 +30,7 @@ Windows版使用phpStudy集成环境，对小白比较友好，不过包含太多冗余的东西了。
 ## 使用步骤
 
 1. 安装JDK1.7和MySQL，配置环境变量。（注意CPU架构）
-2. 创建数据库：`create database maple`
+2. 创建数据库：`create database maplestory_079`
 3. 导入SQL表结构：`source <path>/ms_20210813_234816.sql`
 4. 修改`config/db.properties`配置：确认用户名和密码，数据库名称是否正确
 5. 修改`config/server.properties`：将`127.0.0.1`改为本机IP
