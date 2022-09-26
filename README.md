@@ -1,10 +1,16 @@
-# MapleStory服务端
+# MapleStory079服务端
 
 ## 说明
 
 本项目来源于GitHub的[MapleStory](https://github.com/aoaostar/MapleStory)。
 
 Windows版使用phpStudy集成环境，对小白比较友好，不过包含太多冗余的东西了。
+
+分享三篇教程，有用可以给个star或者评论，也可以加好友私聊
+
+1. [冒险岛私服搭建基础](https://blog.afauria.xyz/2022/09/01/geek-2022-09-01-%E5%86%92%E9%99%A9%E5%B2%9B%E7%A7%81%E6%9C%8D%E6%90%AD%E5%BB%BA%E5%9F%BA%E7%A1%80/)
+2. [冒险岛私服搭建v079](https://blog.afauria.xyz/2022/09/02/geek-2022-09-02-%E5%86%92%E9%99%A9%E5%B2%9B%E7%A7%81%E6%9C%8D%E6%90%AD%E5%BB%BAv079/)
+3. [冒险岛私服搭建v176](https://blog.afauria.xyz/2022/09/08/geek-2022-09-08-%E5%86%92%E9%99%A9%E5%B2%9B%E7%A7%81%E6%9C%8D%E6%90%AD%E5%BB%BAv176/)
 
 ## 文件
 
